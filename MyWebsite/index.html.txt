@@ -13,6 +13,8 @@
         <img src="profile.jpg" alt="My Profile Photo" class="profile">
 
         <h2>Rob Isaac Umbac</h2>
+        <h3>My Hobby</h3>
+        <img src="hobby.jpg" alt="My hobby photo" class="profile">
 
         <p>
             Hello! My name is Rob Isaac Umbac.
