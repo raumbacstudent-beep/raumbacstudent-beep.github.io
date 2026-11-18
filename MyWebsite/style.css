@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf2f8;
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    max-width: 650px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h1 {
+    color: #1a5276;
+}
+
+.profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+p {
+    color: #333333;
+    line-height: 1.6;
+}
+
+a {
+    display: inline-block;
+    background-color: #1a5276;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+}
